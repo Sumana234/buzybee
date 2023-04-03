@@ -1,0 +1,257 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon3d04.ttf?84102aba4213edfe0608823babfb5980") format("truetype"),
+url("../fonts/flaticon3d04.woff?84102aba4213edfe0608823babfb5980") format("woff"),
+url("../fonts/flaticon3d04.woff2?84102aba4213edfe0608823babfb5980") format("woff2"),
+url("../fonts/flaticon3d04.eot?84102aba4213edfe0608823babfb5980#iefix") format("embedded-opentype"),
+url("../fonts/flaticon3d04.svg?84102aba4213edfe0608823babfb5980#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-select:before {
+    content: "\f101";
+}
+.flaticon-travel-agency:before {
+    content: "\f102";
+}
+.flaticon-temporary-agency:before {
+    content: "\f103";
+}
+.flaticon-check:before {
+    content: "\f104";
+}
+.flaticon-advertisig-agency:before {
+    content: "\f105";
+}
+.flaticon-advertisement:before {
+    content: "\f106";
+}
+.flaticon-agent:before {
+    content: "\f107";
+}
+.flaticon-travel-agency-1:before {
+    content: "\f108";
+}
+.flaticon-digital-advertising:before {
+    content: "\f109";
+}
+.flaticon-social-marketing:before {
+    content: "\f10a";
+}
+.flaticon-planning:before {
+    content: "\f10b";
+}
+.flaticon-content-copy:before {
+    content: "\f10c";
+}
+.flaticon-ad:before {
+    content: "\f10d";
+}
+.flaticon-ads:before {
+    content: "\f10e";
+}
+.flaticon-advertising:before {
+    content: "\f10f";
+}
+.flaticon-channel:before {
+    content: "\f110";
+}
+.flaticon-advertising-1:before {
+    content: "\f111";
+}
+.flaticon-enterprise:before {
+    content: "\f112";
+}
+.flaticon-travel-agency-3:before {
+    content: "\f113";
+}
+.flaticon-crm:before {
+    content: "\f114";
+}
+.flaticon-temporary-agency-2:before {
+    content: "\f115";
+}
+.flaticon-advertising-2:before {
+    content: "\f116";
+}
+.flaticon-online-advertising:before {
+    content: "\f117";
+}
+.flaticon-tv:before {
+    content: "\f118";
+}
+.flaticon-advertising-3:before {
+    content: "\f119";
+}
+.flaticon-click:before {
+    content: "\f11a";
+}
+.flaticon-campaign:before {
+    content: "\f11b";
+}
+.flaticon-cost:before {
+    content: "\f11c";
+}
+.flaticon-online:before {
+    content: "\f11d";
+}
+.flaticon-target:before {
+    content: "\f11e";
+}
+.flaticon-digital-marketing-1:before {
+    content: "\f11f";
+}
+.flaticon-profit:before {
+    content: "\f120";
+}
+.flaticon-seo:before {
+    content: "\f121";
+}
+.flaticon-digital-marketing-2:before {
+    content: "\f122";
+}
+.flaticon-growth:before {
+    content: "\f123";
+}
+.flaticon-content:before {
+    content: "\f124";
+}
+.flaticon-network:before {
+    content: "\f125";
+}
+.flaticon-content-marketing:before {
+    content: "\f126";
+}
+.flaticon-digital-marketing-3:before {
+    content: "\f127";
+}
+.flaticon-design-thinking:before {
+    content: "\f128";
+}
+.flaticon-data-analytics:before {
+    content: "\f129";
+}
+.flaticon-consultation:before {
+    content: "\f12a";
+}
+.flaticon-marketing-agency:before {
+    content: "\f12b";
+}
+.flaticon-analytic-chart:before {
+    content: "\f12c";
+}
+.flaticon-data-report:before {
+    content: "\f12d";
+}
+.flaticon-business:before {
+    content: "\f12e";
+}
+.flaticon-world:before {
+    content: "\f12f";
+}
+.flaticon-phone:before {
+    content: "\f130";
+}
+.flaticon-location:before {
+    content: "\f131";
+}
+.flaticon-clock:before {
+    content: "\f132";
+}
+.flaticon-clock-1:before {
+    content: "\f133";
+}
+.flaticon-email:before {
+    content: "\f134";
+}
+.flaticon-newsletter:before {
+    content: "\f135";
+}
+.flaticon-customer-service:before {
+    content: "\f136";
+}
+.flaticon-calling:before {
+    content: "\f137";
+}
+.flaticon-location-1:before {
+    content: "\f138";
+}
+.flaticon-address:before {
+    content: "\f139";
+}
+.flaticon-location-2:before {
+    content: "\f13a";
+}
+.flaticon-pin:before {
+    content: "\f13b";
+}
+.flaticon-mail:before {
+    content: "\f13c";
+}
+.flaticon-mail-1:before {
+    content: "\f13d";
+}
+.flaticon-telephone-call:before {
+    content: "\f13e";
+}
+.flaticon-24-hours:before {
+    content: "\f13f";
+}
+.flaticon-clock-2:before {
+    content: "\f140";
+}
+.flaticon-layers:before {
+    content: "\f141";
+}
+.flaticon-feature:before {
+    content: "\f142";
+}
+.flaticon-shopping-cart-1:before {
+    content: "\f143";
+}
+.flaticon-conversation:before {
+    content: "\f144";
+}
+.flaticon-document:before {
+    content: "\f145";
+}
+.flaticon-24-hours-1:before {
+    content: "\f146";
+}
+.flaticon-research:before {
+    content: "\f147";
+}
+.flaticon-snow:before {
+    content: "\f148";
+}
+.flaticon-sun:before {
+    content: "\f149";
+}
+.flaticon-duct:before {
+    content: "\f14a";
+}
+.flaticon-turbine:before {
+    content: "\f14b";
+}
+.flaticon-air-conditioner:before {
+    content: "\f14c";
+}
+.flaticon-air-conditioner-1:before {
+    content: "\f14d";
+}
+.flaticon-maintenance:before {
+    content: "\f14e";
+}
+.flaticon-arrow-right:before {
+    content: "\f14f";
+}
